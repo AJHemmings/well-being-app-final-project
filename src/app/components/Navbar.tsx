@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <nav className="bg-green items-center text-green flex justify-center pt-0 text-custom-white">
+    <nav className="bg-green items-center text-green flex justify-center pt-3">
       <ul className="flex space-x-4">
         <li>
           <Link href="/" className="hover:text-green transition-colors">
