@@ -11,6 +11,7 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@sentry/nextjs": "^9.4.0",
     "@supabase/ssr": "^0.5.2",
     "@supabase/supabase-js": "^2.49.1",
     "class-variance-authority": "^0.7.1",
